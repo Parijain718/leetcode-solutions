@@ -71,4 +71,12 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Parijain718/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Parijain718/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Parijain718/leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Parijain718/leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 <!---LeetCode Topics End-->

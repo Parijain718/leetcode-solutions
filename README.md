@@ -18,11 +18,13 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Parijain718/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Parijain718/leetcode-solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Parijain718/leetcode-solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Parijain718/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0388-longest-absolute-file-path](https://github.com/Parijain718/leetcode-solutions/tree/master/0388-longest-absolute-file-path) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Parijain718/leetcode-solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -67,6 +69,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Parijain718/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Parijain718/leetcode-solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0388-longest-absolute-file-path](https://github.com/Parijain718/leetcode-solutions/tree/master/0388-longest-absolute-file-path) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Parijain718/leetcode-solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Design
 |  |
 | ------- |

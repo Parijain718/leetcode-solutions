@@ -39,6 +39,7 @@
 ## Array
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Parijain718/leetcode-solutions/tree/master/0682-baseball-game) |
 | [1833-maximum-ice-cream-bars](https://github.com/Parijain718/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 ## Greedy
 |  |
@@ -73,6 +74,7 @@
 | [0388-longest-absolute-file-path](https://github.com/Parijain718/leetcode-solutions/tree/master/0388-longest-absolute-file-path) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Parijain718/leetcode-solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Parijain718/leetcode-solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0682-baseball-game](https://github.com/Parijain718/leetcode-solutions/tree/master/0682-baseball-game) |
 ## Design
 |  |
 | ------- |
@@ -92,4 +94,8 @@
 |  |
 | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Parijain718/leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Parijain718/leetcode-solutions/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->

@@ -42,6 +42,7 @@
 | ------- |
 | [0682-baseball-game](https://github.com/Parijain718/leetcode-solutions/tree/master/0682-baseball-game) |
 | [1833-maximum-ice-cream-bars](https://github.com/Parijain718/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [2104-sum-of-subarray-ranges](https://github.com/Parijain718/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Parijain718/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Parijain718/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Greedy
@@ -81,6 +82,7 @@
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Parijain718/leetcode-solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Parijain718/leetcode-solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/Parijain718/leetcode-solutions/tree/master/0682-baseball-game) |
+| [2104-sum-of-subarray-ranges](https://github.com/Parijain718/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
 | ------- |
@@ -122,4 +124,8 @@
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Parijain718/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Parijain718/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2104-sum-of-subarray-ranges](https://github.com/Parijain718/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->

@@ -71,6 +71,7 @@
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Parijain718/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Parijain718/leetcode-solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0388-longest-absolute-file-path](https://github.com/Parijain718/leetcode-solutions/tree/master/0388-longest-absolute-file-path) |
 | [0402-remove-k-digits](https://github.com/Parijain718/leetcode-solutions/tree/master/0402-remove-k-digits) |

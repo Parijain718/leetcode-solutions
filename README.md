@@ -98,6 +98,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Parijain718/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Parijain718/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Parijain718/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Parijain718/leetcode-solutions/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 ## Stack
 |  |
 | ------- |

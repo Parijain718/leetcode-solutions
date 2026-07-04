@@ -48,6 +48,7 @@
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Parijain718/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Parijain718/leetcode-solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Parijain718/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Parijain718/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -70,6 +71,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Parijain718/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Parijain718/leetcode-solutions/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Parijain718/leetcode-solutions/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/Parijain718/leetcode-solutions/tree/master/0402-remove-k-digits) |
@@ -157,6 +159,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Parijain718/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Parijain718/leetcode-solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Parijain718/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0279-perfect-squares](https://github.com/Parijain718/leetcode-solutions/tree/master/0279-perfect-squares) |

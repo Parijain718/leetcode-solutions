@@ -12,6 +12,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Parijain718/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0279-perfect-squares](https://github.com/Parijain718/leetcode-solutions/tree/master/0279-perfect-squares) |
+| [2165-smallest-value-of-the-rearranged-number](https://github.com/Parijain718/leetcode-solutions/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Parijain718/leetcode-solutions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Parijain718/leetcode-solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Recursion
@@ -91,6 +92,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Parijain718/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Parijain718/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [1833-maximum-ice-cream-bars](https://github.com/Parijain718/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [2165-smallest-value-of-the-rearranged-number](https://github.com/Parijain718/leetcode-solutions/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/Parijain718/leetcode-solutions/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 ## Counting Sort
 |  |

@@ -32,11 +32,13 @@
 | [0388-longest-absolute-file-path](https://github.com/Parijain718/leetcode-solutions/tree/master/0388-longest-absolute-file-path) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Parijain718/leetcode-solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Parijain718/leetcode-solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Parijain718/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Parijain718/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0279-perfect-squares](https://github.com/Parijain718/leetcode-solutions/tree/master/0279-perfect-squares) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Parijain718/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Parijain718/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Tree
 |  |
@@ -224,6 +226,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Parijain718/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Parijain718/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Parijain718/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
@@ -238,4 +241,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Parijain718/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Graph Theory
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Parijain718/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->

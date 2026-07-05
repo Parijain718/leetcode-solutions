@@ -138,6 +138,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Parijain718/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Parijain718/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Parijain718/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1768-merge-strings-alternately](https://github.com/Parijain718/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Parijain718/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Parijain718/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Parijain718/leetcode-solutions/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
@@ -232,6 +233,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Parijain718/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1768-merge-strings-alternately](https://github.com/Parijain718/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Parijain718/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## String Matching
 |  |

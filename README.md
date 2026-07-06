@@ -69,6 +69,7 @@
 | [0682-baseball-game](https://github.com/Parijain718/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Parijain718/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Parijain718/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
+| [1288-remove-covered-intervals](https://github.com/Parijain718/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Parijain718/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Parijain718/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1833-maximum-ice-cream-bars](https://github.com/Parijain718/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
@@ -101,6 +102,7 @@
 | [0179-largest-number](https://github.com/Parijain718/leetcode-solutions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Parijain718/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Parijain718/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [1288-remove-covered-intervals](https://github.com/Parijain718/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/Parijain718/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Parijain718/leetcode-solutions/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/Parijain718/leetcode-solutions/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |

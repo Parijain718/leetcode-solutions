@@ -105,6 +105,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Parijain718/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Parijain718/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [1288-remove-covered-intervals](https://github.com/Parijain718/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Parijain718/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1833-maximum-ice-cream-bars](https://github.com/Parijain718/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Parijain718/leetcode-solutions/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/Parijain718/leetcode-solutions/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
@@ -113,6 +114,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Parijain718/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/Parijain718/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Parijain718/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1833-maximum-ice-cream-bars](https://github.com/Parijain718/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Parijain718/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
@@ -124,6 +126,7 @@
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Parijain718/leetcode-solutions/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1189-maximum-number-of-balloons](https://github.com/Parijain718/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Parijain718/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Parijain718/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Parijain718/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Parijain718/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
@@ -143,6 +146,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Parijain718/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Parijain718/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Parijain718/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Parijain718/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/Parijain718/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Parijain718/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Parijain718/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |

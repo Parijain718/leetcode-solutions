@@ -19,6 +19,7 @@
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Parijain718/leetcode-solutions/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Parijain718/leetcode-solutions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Parijain718/leetcode-solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Parijain718/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
 |  |
 | ------- |

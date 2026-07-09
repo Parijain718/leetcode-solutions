@@ -144,6 +144,7 @@
 | [0179-largest-number](https://github.com/Parijain718/leetcode-solutions/tree/master/0179-largest-number) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Parijain718/leetcode-solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0388-longest-absolute-file-path](https://github.com/Parijain718/leetcode-solutions/tree/master/0388-longest-absolute-file-path) |
+| [0392-is-subsequence](https://github.com/Parijain718/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Parijain718/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Parijain718/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Parijain718/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -203,6 +204,7 @@
 | [0064-minimum-path-sum](https://github.com/Parijain718/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0279-perfect-squares](https://github.com/Parijain718/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Parijain718/leetcode-solutions/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/Parijain718/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/Parijain718/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Parijain718/leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Parijain718/leetcode-solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -256,6 +258,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Parijain718/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/Parijain718/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/Parijain718/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Parijain718/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Parijain718/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Parijain718/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |

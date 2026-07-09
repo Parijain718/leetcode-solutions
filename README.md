@@ -186,11 +186,13 @@
 | [0155-min-stack](https://github.com/Parijain718/leetcode-solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Parijain718/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Parijain718/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0933-number-of-recent-calls](https://github.com/Parijain718/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Parijain718/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Parijain718/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0933-number-of-recent-calls](https://github.com/Parijain718/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Parijain718/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Parijain718/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Dynamic Programming
@@ -311,4 +313,8 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Parijain718/leetcode-solutions/tree/master/0164-maximum-gap) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Parijain718/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->

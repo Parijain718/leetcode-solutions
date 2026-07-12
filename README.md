@@ -90,6 +90,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Parijain718/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Parijain718/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2104-sum-of-subarray-ranges](https://github.com/Parijain718/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Parijain718/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/Parijain718/leetcode-solutions/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Parijain718/leetcode-solutions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Parijain718/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -148,6 +149,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Parijain718/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Parijain718/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Parijain718/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Parijain718/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Parijain718/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Parijain718/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String

@@ -74,6 +74,7 @@
 | [0605-can-place-flowers](https://github.com/Parijain718/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Parijain718/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Parijain718/leetcode-solutions/tree/master/0682-baseball-game) |
+| [0724-find-pivot-index](https://github.com/Parijain718/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Parijain718/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [1004-max-consecutive-ones-iii](https://github.com/Parijain718/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Parijain718/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
@@ -226,6 +227,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Parijain718/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Parijain718/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/Parijain718/leetcode-solutions/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Parijain718/leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |

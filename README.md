@@ -93,6 +93,7 @@
 | [2215-find-the-difference-of-two-arrays](https://github.com/Parijain718/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/Parijain718/leetcode-solutions/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Parijain718/leetcode-solutions/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/Parijain718/leetcode-solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Parijain718/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Parijain718/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Parijain718/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -150,6 +151,7 @@
 | [1657-determine-if-two-strings-are-close](https://github.com/Parijain718/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Parijain718/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Parijain718/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/Parijain718/leetcode-solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Parijain718/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Parijain718/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
@@ -245,6 +247,7 @@
 | [0735-asteroid-collision](https://github.com/Parijain718/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Parijain718/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Parijain718/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
+| [2352-equal-row-and-column-pairs](https://github.com/Parijain718/leetcode-solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/Parijain718/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Divide and Conquer
 |  |
@@ -326,6 +329,7 @@
 | [0064-minimum-path-sum](https://github.com/Parijain718/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/Parijain718/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [1301-number-of-paths-with-max-score](https://github.com/Parijain718/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
+| [2352-equal-row-and-column-pairs](https://github.com/Parijain718/leetcode-solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Parijain718/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Quickselect
 |  |

@@ -4,11 +4,11 @@ public:
         stack<int> st;
         for(int asteroid : asteroids){
             bool destroyed = false;
-            while(!st.empty() && st.top()>0 && asteroid < 0){
-                if(st.top() < -asteroid){
+            while(!st.empty() && st.top()>0 && asteroid< 0){
+                if(st.top()< -asteroid){
                     st.pop();
                 }
-                else if(st.top() == -asteroid){
+                else if(st.top()== -asteroid){
                     st.pop();
                     destroyed = true;
                     break;
@@ -23,7 +23,7 @@ public:
             }
         }
         vector<int> ans(st.size());
-        for(int i = st.size() - 1 ; i>=0;i--){
+        for(int i = st.size() - 1; i >= 0; i--){
             ans[i] = st.top();
             st.pop();
         }

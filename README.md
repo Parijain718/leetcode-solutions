@@ -161,6 +161,7 @@
 | [0006-zigzag-conversion](https://github.com/Parijain718/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Parijain718/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Parijain718/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0151-reverse-words-in-a-string](https://github.com/Parijain718/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Parijain718/leetcode-solutions/tree/master/0179-largest-number) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Parijain718/leetcode-solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0388-longest-absolute-file-path](https://github.com/Parijain718/leetcode-solutions/tree/master/0388-longest-absolute-file-path) |
@@ -286,6 +287,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Parijain718/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Parijain718/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0151-reverse-words-in-a-string](https://github.com/Parijain718/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Parijain718/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Parijain718/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Parijain718/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |

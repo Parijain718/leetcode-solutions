@@ -76,6 +76,7 @@
 | [0238-product-of-array-except-self](https://github.com/Parijain718/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Parijain718/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/Parijain718/leetcode-solutions/tree/master/0322-coin-change) |
+| [0334-increasing-triplet-subsequence](https://github.com/Parijain718/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Parijain718/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0605-can-place-flowers](https://github.com/Parijain718/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Parijain718/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -115,6 +116,7 @@
 | [0055-jump-game](https://github.com/Parijain718/leetcode-solutions/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Parijain718/leetcode-solutions/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Parijain718/leetcode-solutions/tree/master/0179-largest-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/Parijain718/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/Parijain718/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0605-can-place-flowers](https://github.com/Parijain718/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/Parijain718/leetcode-solutions/tree/master/0649-dota2-senate) |

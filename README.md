@@ -38,6 +38,7 @@
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Parijain718/leetcode-solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Parijain718/leetcode-solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Parijain718/leetcode-solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Parijain718/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | [0388-longest-absolute-file-path](https://github.com/Parijain718/leetcode-solutions/tree/master/0388-longest-absolute-file-path) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Parijain718/leetcode-solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Parijain718/leetcode-solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Parijain718/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Parijain718/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
@@ -54,6 +56,7 @@
 | [0130-surrounded-regions](https://github.com/Parijain718/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0279-perfect-squares](https://github.com/Parijain718/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Parijain718/leetcode-solutions/tree/master/0322-coin-change) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Parijain718/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Parijain718/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Parijain718/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Tree
@@ -61,6 +64,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Parijain718/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Parijain718/leetcode-solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Parijain718/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Array
 |  |
 | ------- |

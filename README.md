@@ -129,6 +129,7 @@
 | [0605-can-place-flowers](https://github.com/Parijain718/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/Parijain718/leetcode-solutions/tree/master/0649-dota2-senate) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Parijain718/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Parijain718/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Parijain718/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/Parijain718/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Parijain718/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -195,6 +196,7 @@
 | [0649-dota2-senate](https://github.com/Parijain718/leetcode-solutions/tree/master/0649-dota2-senate) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Parijain718/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Parijain718/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Parijain718/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Parijain718/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Parijain718/leetcode-solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Parijain718/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -223,6 +225,7 @@
 | [0735-asteroid-collision](https://github.com/Parijain718/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Parijain718/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Parijain718/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Parijain718/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Parijain718/leetcode-solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Parijain718/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Parijain718/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -309,6 +312,7 @@
 | ------- |
 | [0402-remove-k-digits](https://github.com/Parijain718/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Parijain718/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Parijain718/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2104-sum-of-subarray-ranges](https://github.com/Parijain718/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Backtracking
 |  |

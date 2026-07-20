@@ -36,6 +36,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Parijain718/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Parijain718/leetcode-solutions/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Parijain718/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Parijain718/leetcode-solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Parijain718/leetcode-solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Parijain718/leetcode-solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -45,6 +46,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Parijain718/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Parijain718/leetcode-solutions/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Parijain718/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0130-surrounded-regions](https://github.com/Parijain718/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0388-longest-absolute-file-path](https://github.com/Parijain718/leetcode-solutions/tree/master/0388-longest-absolute-file-path) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Parijain718/leetcode-solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -67,6 +69,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Parijain718/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Parijain718/leetcode-solutions/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Parijain718/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Parijain718/leetcode-solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Parijain718/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Array
@@ -322,6 +325,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Parijain718/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0113-path-sum-ii](https://github.com/Parijain718/leetcode-solutions/tree/master/0113-path-sum-ii) |
 ## Two Pointers
 |  |
 | ------- |

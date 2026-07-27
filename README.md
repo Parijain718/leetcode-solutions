@@ -109,6 +109,7 @@
 | [0682-baseball-game](https://github.com/Parijain718/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Parijain718/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Parijain718/leetcode-solutions/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Parijain718/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1004-max-consecutive-ones-iii](https://github.com/Parijain718/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Parijain718/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1207-unique-number-of-occurrences](https://github.com/Parijain718/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -247,6 +248,7 @@
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Parijain718/leetcode-solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/Parijain718/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Parijain718/leetcode-solutions/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Parijain718/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Parijain718/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Parijain718/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Parijain718/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -335,6 +337,7 @@
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Parijain718/leetcode-solutions/tree/master/0402-remove-k-digits) |
+| [0739-daily-temperatures](https://github.com/Parijain718/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Parijain718/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Parijain718/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2104-sum-of-subarray-ranges](https://github.com/Parijain718/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |

@@ -41,6 +41,7 @@
 | [0113-path-sum-ii](https://github.com/Parijain718/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Parijain718/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Parijain718/leetcode-solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Parijain718/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Parijain718/leetcode-solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Parijain718/leetcode-solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Parijain718/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -81,6 +82,7 @@
 | [0113-path-sum-ii](https://github.com/Parijain718/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Parijain718/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Parijain718/leetcode-solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Parijain718/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Parijain718/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Parijain718/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Parijain718/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -453,6 +455,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Parijain718/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Parijain718/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Enumeration
 |  |

@@ -249,6 +249,7 @@
 | [0682-baseball-game](https://github.com/Parijain718/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Parijain718/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Parijain718/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Parijain718/leetcode-solutions/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Parijain718/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Parijain718/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Parijain718/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -265,6 +266,7 @@
 | [0155-min-stack](https://github.com/Parijain718/leetcode-solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Parijain718/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Parijain718/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/Parijain718/leetcode-solutions/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Parijain718/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
@@ -338,6 +340,7 @@
 | ------- |
 | [0402-remove-k-digits](https://github.com/Parijain718/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Parijain718/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Parijain718/leetcode-solutions/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Parijain718/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Parijain718/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2104-sum-of-subarray-ranges](https://github.com/Parijain718/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
@@ -430,6 +433,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/Parijain718/leetcode-solutions/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Parijain718/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 ## Bit Manipulation
 |  |

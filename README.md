@@ -176,6 +176,7 @@
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Parijain718/leetcode-solutions/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/Parijain718/leetcode-solutions/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Parijain718/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Parijain718/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Parijain718/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Parijain718/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Parijain718/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -187,6 +188,7 @@
 | [1657-determine-if-two-strings-are-close](https://github.com/Parijain718/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1833-maximum-ice-cream-bars](https://github.com/Parijain718/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Parijain718/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Parijain718/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Parijain718/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
@@ -235,6 +237,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Parijain718/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2390-removing-stars-from-a-string](https://github.com/Parijain718/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Parijain718/leetcode-solutions/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Parijain718/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Parijain718/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
 |  |

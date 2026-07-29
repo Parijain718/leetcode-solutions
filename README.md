@@ -133,6 +133,7 @@
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Parijain718/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Parijain718/leetcode-solutions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/Parijain718/leetcode-solutions/tree/master/2352-equal-row-and-column-pairs) |
+| [2542-maximum-subsequence-score](https://github.com/Parijain718/leetcode-solutions/tree/master/2542-maximum-subsequence-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Parijain718/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Parijain718/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Parijain718/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -160,6 +161,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/Parijain718/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Parijain718/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/Parijain718/leetcode-solutions/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
+| [2542-maximum-subsequence-score](https://github.com/Parijain718/leetcode-solutions/tree/master/2542-maximum-subsequence-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Parijain718/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
@@ -177,6 +179,7 @@
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Parijain718/leetcode-solutions/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/Parijain718/leetcode-solutions/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Parijain718/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2542-maximum-subsequence-score](https://github.com/Parijain718/leetcode-solutions/tree/master/2542-maximum-subsequence-score) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Parijain718/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Parijain718/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Parijain718/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -384,6 +387,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Parijain718/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Parijain718/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Parijain718/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [2542-maximum-subsequence-score](https://github.com/Parijain718/leetcode-solutions/tree/master/2542-maximum-subsequence-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Parijain718/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Sliding Window
 |  |

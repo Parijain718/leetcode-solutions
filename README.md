@@ -18,6 +18,7 @@
 | [0002-add-two-numbers](https://github.com/Parijain718/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0279-perfect-squares](https://github.com/Parijain718/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Parijain718/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1406-stone-game-iii](https://github.com/Parijain718/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Parijain718/leetcode-solutions/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Parijain718/leetcode-solutions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Parijain718/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -120,6 +121,7 @@
 | [1288-remove-covered-intervals](https://github.com/Parijain718/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Parijain718/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Parijain718/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1406-stone-game-iii](https://github.com/Parijain718/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Parijain718/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Parijain718/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Parijain718/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -303,6 +305,7 @@
 | [0322-coin-change](https://github.com/Parijain718/leetcode-solutions/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Parijain718/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/Parijain718/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
+| [1406-stone-game-iii](https://github.com/Parijain718/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Parijain718/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Parijain718/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Parijain718/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -480,4 +483,16 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Parijain718/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Parijain718/leetcode-solutions/tree/master/1406-stone-game-iii) |
+## Game Theory
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Parijain718/leetcode-solutions/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Parijain718/leetcode-solutions/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->

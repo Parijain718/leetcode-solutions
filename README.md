@@ -106,6 +106,7 @@
 | [0162-find-peak-element](https://github.com/Parijain718/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Parijain718/leetcode-solutions/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/Parijain718/leetcode-solutions/tree/master/0179-largest-number) |
+| [0209-minimum-size-subarray-sum](https://github.com/Parijain718/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Parijain718/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Parijain718/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Parijain718/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -323,6 +324,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Parijain718/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Parijain718/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Parijain718/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Parijain718/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -408,6 +410,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Parijain718/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Parijain718/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Parijain718/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Parijain718/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -418,6 +421,7 @@
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Parijain718/leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Parijain718/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0374-guess-number-higher-or-lower](https://github.com/Parijain718/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0875-koko-eating-bananas](https://github.com/Parijain718/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Parijain718/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |

@@ -61,6 +61,7 @@
 | [0113-path-sum-ii](https://github.com/Parijain718/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0130-surrounded-regions](https://github.com/Parijain718/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Parijain718/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Parijain718/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Parijain718/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0388-longest-absolute-file-path](https://github.com/Parijain718/leetcode-solutions/tree/master/0388-longest-absolute-file-path) |
 | [0543-diameter-of-binary-tree](https://github.com/Parijain718/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -77,6 +78,7 @@
 | [0112-path-sum](https://github.com/Parijain718/leetcode-solutions/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/Parijain718/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Parijain718/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Parijain718/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/Parijain718/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Parijain718/leetcode-solutions/tree/master/0322-coin-change) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Parijain718/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -113,6 +115,7 @@
 | [0162-find-peak-element](https://github.com/Parijain718/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Parijain718/leetcode-solutions/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/Parijain718/leetcode-solutions/tree/master/0179-largest-number) |
+| [0200-number-of-islands](https://github.com/Parijain718/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Parijain718/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Parijain718/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Parijain718/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
@@ -448,6 +451,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Parijain718/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Parijain718/leetcode-solutions/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Parijain718/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Parijain718/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Parijain718/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
@@ -455,6 +459,7 @@
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Parijain718/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/Parijain718/leetcode-solutions/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Parijain718/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [1301-number-of-paths-with-max-score](https://github.com/Parijain718/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [2352-equal-row-and-column-pairs](https://github.com/Parijain718/leetcode-solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Parijain718/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |

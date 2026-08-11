@@ -71,6 +71,7 @@
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Parijain718/leetcode-solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0684-redundant-connection](https://github.com/Parijain718/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Parijain718/leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [0841-keys-and-rooms](https://github.com/Parijain718/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Parijain718/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Parijain718/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Parijain718/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -87,6 +88,7 @@
 | [0322-coin-change](https://github.com/Parijain718/leetcode-solutions/tree/master/0322-coin-change) |
 | [0684-redundant-connection](https://github.com/Parijain718/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Parijain718/leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [0841-keys-and-rooms](https://github.com/Parijain718/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Parijain718/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Parijain718/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Parijain718/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -507,6 +509,7 @@
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/Parijain718/leetcode-solutions/tree/master/0684-redundant-connection) |
+| [0841-keys-and-rooms](https://github.com/Parijain718/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Parijain718/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/Parijain718/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Parijain718/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |

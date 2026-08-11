@@ -75,6 +75,7 @@
 | [0841-keys-and-rooms](https://github.com/Parijain718/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Parijain718/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Parijain718/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Parijain718/leetcode-solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Parijain718/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/Parijain718/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -93,6 +94,7 @@
 | [0841-keys-and-rooms](https://github.com/Parijain718/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Parijain718/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Parijain718/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Parijain718/leetcode-solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Parijain718/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Parijain718/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/Parijain718/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
@@ -514,6 +516,7 @@
 | [0547-number-of-provinces](https://github.com/Parijain718/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Parijain718/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0841-keys-and-rooms](https://github.com/Parijain718/leetcode-solutions/tree/master/0841-keys-and-rooms) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Parijain718/leetcode-solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Parijain718/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/Parijain718/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Parijain718/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |

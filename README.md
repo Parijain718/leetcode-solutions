@@ -132,6 +132,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Parijain718/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Parijain718/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Parijain718/leetcode-solutions/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/Parijain718/leetcode-solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Parijain718/leetcode-solutions/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/Parijain718/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Parijain718/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -222,6 +223,7 @@
 | ------- |
 | [0147-insertion-sort-list](https://github.com/Parijain718/leetcode-solutions/tree/master/0147-insertion-sort-list) |
 | [0164-maximum-gap](https://github.com/Parijain718/leetcode-solutions/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/Parijain718/leetcode-solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Parijain718/leetcode-solutions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Parijain718/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Parijain718/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -244,6 +246,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Parijain718/leetcode-solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Parijain718/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Parijain718/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/Parijain718/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -259,6 +262,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Parijain718/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0128-longest-consecutive-sequence](https://github.com/Parijain718/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/Parijain718/leetcode-solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Parijain718/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Parijain718/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/Parijain718/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
@@ -414,6 +418,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Parijain718/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/Parijain718/leetcode-solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Parijain718/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Parijain718/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Parijain718/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -650,4 +655,8 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Parijain718/leetcode-solutions/tree/master/0399-evaluate-division) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Parijain718/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

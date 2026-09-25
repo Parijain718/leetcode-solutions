@@ -251,6 +251,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Parijain718/leetcode-solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Parijain718/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Parijain718/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/Parijain718/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/Parijain718/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Parijain718/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
@@ -269,6 +270,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Parijain718/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Parijain718/leetcode-solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Parijain718/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Parijain718/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Parijain718/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/Parijain718/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0904-fruit-into-baskets](https://github.com/Parijain718/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
@@ -301,6 +303,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Parijain718/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Parijain718/leetcode-solutions/tree/master/0179-largest-number) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Parijain718/leetcode-solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0387-first-unique-character-in-a-string](https://github.com/Parijain718/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0388-longest-absolute-file-path](https://github.com/Parijain718/leetcode-solutions/tree/master/0388-longest-absolute-file-path) |
 | [0392-is-subsequence](https://github.com/Parijain718/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Parijain718/leetcode-solutions/tree/master/0394-decode-string) |
@@ -368,6 +371,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Parijain718/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Parijain718/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/Parijain718/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/Parijain718/leetcode-solutions/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/Parijain718/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Parijain718/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |

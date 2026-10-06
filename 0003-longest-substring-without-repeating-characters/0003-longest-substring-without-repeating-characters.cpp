@@ -10,7 +10,7 @@ public:
                 left++;
             }
             st.insert(s[right]);
-            maxLen = max(maxLen, right - left + 1);
+            maxLen = max(maxLen,right-left+1);
         }
         return maxLen;
     }
